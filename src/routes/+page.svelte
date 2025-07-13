@@ -3,9 +3,10 @@
 	import meta__img from '$lib/images/meta__img.jpg';
 	import AllBlocks from '../components/AllBlocks.svelte';
 
-	const title = 'IQ Option Malaysia — Platform Overview, Features, and Pros & Cons';
+	const title =
+		'IQ Option Malaysia — Gambaran Keseluruhan Platform, Ciri serta Kebaikan & Keburukan';
 	const desc =
-		'IQ Option might already be on your radar if you live in Malaysia and want a feature-rich, easily available trading platform.';
+		'IQ Option mungkin sudah berada dalam radar anda jika anda tinggal di Malaysia dan mahukan platform dagangan yang kaya dengan ciri serta mudah didapati.';
 </script>
 
 <svelte:head>
