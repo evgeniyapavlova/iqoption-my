@@ -4,7 +4,8 @@
 	import Block1 from './Block1.svelte';
 	import Block2 from './Block2.svelte';
 	import Block3 from './Block3.svelte';
-	import Block5 from './Block5.svelte';
+	import IFrameForm from './IFrameForm.svelte';
+	import FAQ from './FAQ.svelte';
 </script>
 
 <Header />
@@ -12,4 +13,5 @@
 <Block1 />
 <Block2 />
 <Block3 />
-<Block5 />
+<IFrameForm />
+<FAQ />
