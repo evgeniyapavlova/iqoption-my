@@ -15,7 +15,7 @@
 		<div class="intro" style="margin: 0 auto; text-align: center; padding: 140px 0 100px;">
 			<h1>
 				<span>IQ Option Malaysia</span>
-				<span>Platform Overview, Features, and Pros & Cons</span>
+				<span>Gambaran Keseluruhan Platform,<br />Ciri serta Kebaikan & Keburukan </span>
 			</h1>
 			<!-- <p style="font-size: 18px;">
 				Hoje, negociar é uma das opções para ganhar dinheiro extra sem grandes investimentos.

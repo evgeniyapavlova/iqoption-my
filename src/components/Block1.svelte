@@ -1,186 +1,206 @@
 <script>
+	import { iframe_params } from '../lib/constants/reg_link';
 	import ImageWrap from './common/ImageWrap.svelte';
 </script>
 
 <section>
-	<h2>منصة IQ Option</h2>
 	<p>
-		تُعدُّ IQ Option منصَّة تداوُل إلكترونية مُتاحة عبر الإنترنت، مُصمَّمة لتلبية طيف واسع من
-		التفضيلات الاستثمارية لدى العملاء. تضمُّ قاعدة مستخدمين واسعة، مع ملايين الأعضاء المُسجَّلين
-		لديها عبر ما يزيد عن 213 دولة حول العالم. ستجد في هذا الدليل الإرشاديّ الشامل إجاباتٍ لكل ما
-		يخطر ببالك حول منصَّة IQ Option، بدءًا من أبرز مزاياها الأساسية ووصولًا إلى الوظائف المتقدِّمة،
-		بما يشمل ميزة الحساب الإسلامي على وجه الخصوص.
+		IQ Option mungkin sudah berada dalam radar anda jika anda tinggal di Malaysia dan mahukan
+		platform dagangan yang kaya dengan ciri serta mudah didapati. Artikel ini akan membimbing anda
+		melalui semua yang anda perlu tahu tentang IQ Option Malaysia—daripada ciri yang disediakan oleh
+		platform kepada cara untuk bermula—sama ada anda baru berdagang atau mempunyai kepakaran selama
+		bertahun-tahun.
 	</p>
-
-	<ImageWrap imageW={1280} imageH={777} path="/ar/img1.png" fullImage={[1333, 809]} darkBgr />
-
-	<h2>الملف التعريفي لمنصَّة IQ Option</h2>
-	<p>لنُلقي نظرة على بعض المعلومات الأساسية حول منصَّة IQ Option للتعرُّف عليها بوضوح أكبر:</p>
-
-	<div class="table-wrap">
-		<table>
-			<tr
-				><td><strong>الميزة</strong></td>
-				<td><strong>التفاصيل</strong></td></tr
-			>
-			<tr
-				><td>الموقع الرسمي </td>
-				<td>iqoption.com </td></tr
-			>
-			<tr>
-				<td>المقرّ الرئيسي</td>
-				<td>2013</td>
-			</tr>
-			<tr>
-				<td>الترخيص والوضع التنظيمي </td>
-				<td>خاضعة للتنظيم أصولًا من قِبل هيئة الأوراق المالية والبورصات القبرصية (CySEC) </td>
-			</tr>
-			<tr>
-				<td>المنتجات المتاحة </td>
-				<td
-					>الفوركس والأسهم وعقود الخيارات والسلع صناديق المؤشرات المتداولة (ETFs) والعملات الرقمية
-					والمؤشرات
-				</td>
-			</tr>
-			<tr>
-				<td>العملات المدعومة </td>
-				<td
-					>الدولار الأمريكي (USD) واليورو (EUR) والجنيه الإسترليني (GBP) والروبل الروسي (RUB) وغيرها
-				</td>
-			</tr>
-			<tr>
-				<td>طرق الإيداع </td>
-				<td
-					>بطاقات الائتمان/الخصم المباشر والتحويلات المصرفية والمحافظ الإلكترونية (من قبيل Skrill
-					وNeteller وWebMoney) والعملات الرقمية
-				</td>
-			</tr>
-			<tr>
-				<td>الحد الأدنى للإيداع </td>
-				<td>10 دولار أمريكي </td>
-			</tr>
-			<tr>
-				<td>طرق السحب </td>
-				<td>نفس الطرق المُتاحة للإيداع </td>
-			</tr>
-			<tr>
-				<td>الحدّ الأدنى للسحب </td>
-				<td>2 دولار أمريكي </td>
-			</tr>
-			<tr>
-				<td>الحدّ الأدنى لقيمة صفقة التداوُل</td>
-				<td>1 دولار أمريكي </td>
-			</tr>
-			<tr>
-				<td>الرافعة المالية </td>
-				<td>حتى 1 إلى 1500 (علمًا أنَّها تختلف حسب الأداة المالية المُستخدَمة) </td>
-			</tr>
-			<tr>
-				<td>أنواع الحسابات </td>
-				<td>تجريبي (Demo) وقياسي (Standard) ومُخصَّص لفئة كبار الشخصيات (VIP) </td>
-			</tr>
-			<tr>
-				<td>التداوُل عبر الأجهزة المحمولة </td>
-				<td>مُتاح للأجهزة العاملة بنظاميّ iOS وأندرويد </td>
-			</tr>
-			<tr>
-				<td>الحساب الإسلامي </td>
-				<td>مُتاح (بدون رسوم تبييت/سواب) </td>
-			</tr>
-			<tr>
-				<td>الدول غير المدعومة </td>
-				<td
-					>الولايات المتحدة وأستراليا وكندا وروسيا واليابان وإسرائيل وإيران وسوريا وغيرها من الدول
-				</td>
-			</tr>
-			<tr>
-				<td>برنامج الشركاء المُسوِّقين</td>
-				<td>مُتاح مع هيكلية عمولات تنافسية </td>
-			</tr>
-			<tr>
-				<td>دعم العملاء </td>
-				<td
-					>مُتوفِّر على مدار الساعة طوال الأسبوع عبر البريد الإلكتروني والدردشة المباشرة والهاتف
-				</td>
-			</tr>
-		</table>
-	</div>
-
-	<h2>ما هي منصَّة IQ Option؟</h2>
+	<h2>Apakah IQ Option dan Bagaimana Ia Berfungsi di Malaysia?</h2>
 	<p>
-		تُعدُّ IQ Option منصَّة تداوُل إلكترونية مُتاحة عبر الإنترنت، تُمكِّن المستخدمين من تداوُل أدوات
-		مالية متنوّعة مثل الفوركس والأسهم وعقود الخيارات الرقمية وعقود الخيارات الثنائية والعملات
-		الرقمية وغيرها. تأسَّست IQ Option عام 2013، وبعد أن انطلقت كوسيط مالي مُتخصِّص في عقود الخيارات
-		الثنائية فقط، تطوَّرت لتُصبح منصَّة تداوُل متكاملة تُقدِّم خيارات استثمارية متنوّعة.
+		IQ Option ialah broker dalam talian yang dipercayai dan platform dagangan yang mantap yang telah
+		dilancarkan pada tahun 2013. Sehingga kini, IQ Option memberi perkhidmatan kepada lebih 40 juta
+		pengguna di lebih 150 buah negara berbeza, mengekalkan reputasi dan kedudukan yang kukuh antara
+		nama yang paling boleh dipercayai dalam komuniti perdagangan. Platform ini terus dibangungkan,
+		mengembangkan rangkaian produk dan memodenkan teknologinya. Ia sangat teruja untuk memberikan
+		pengalaman perdagangan yang fleksibel serta mudah untuk pelabur baru dan berpengalaman.
 	</p>
 	<p>
-		أمَّا ما يُميِّز IQ Option عن معظم منافسيها فهو المزيج الفريد الذي يجمع بين واجهة سهلة الاستخدام
-		مع أدوات تداوُل مُتقدِّمة. وبالتالي يُعدُّ موقع المنصَّة وتطبيقاتها مثالية للمبتدئين والمحترفين
-		على حدٍ سواء، بفضل ما تُقدِّمه من أدلَّة تعليمية شاملة وإمكانات تحليل متطوِّرة. ومع حدٍّ أدنى
-		للإيداع لا يتجاوز 10 دولار أمريكي، جعلت IQ Option من الأسواق المالية التي كانت حكرًا على من
-		يملكون رؤوس أموال كبيرة في متناول الجميع.
+		Menggabungkan kelajuan pelaksanaan yang pantas, alatan dagangan yang berkuasa dan reka bentuk
+		yang mesra pengguna, IQ Option memudahkan pengguna Malaysia untuk berdagang pelbagai CFD,
+		kesemuanya daripada satu platform yang mudah digunakan.
 	</p>
 	<p>
-		ومن أبرز مزايا IQ Option إمكانية فتح حساب تجريبي مجاني برصيد افتراضي للتدريب يبلغ 10,000 دولار
-		أمريكي. بما يُتيح لك التدرُّب على التداوُل دون المجازفة بأموالك الحقيقية – وهي ميزة ذات أهمية
-		استثنائية للمبتدئين.
+		Firma berdedikasi untuk inovasi dengan sentiasa menambah baik platformnya dan memasukkan ciri
+		baharu bagi membolehkan pengguna memaksimumkan portfolio pelaburan mereka. IQ Option menyediakan
+		akses yang kukuh tetapi mudah kepada perdagangan dalam talian sama ada matlamat anda untuk
+		melihat trend pasaran di seluruh dunia, spekulasi mengenai perubahan harga atau kepelbagaian
+		aset.
 	</p>
 
-	<ImageWrap imageW={1091} imageH={620} path="/ar/img.jpg" fullImage={[1091, 620]}  />
+	<ImageWrap imageW={1863} imageH={1059} path="/my/image6.png" fullImage={[1863, 1059]} darkBgr />
 
-	<h3>الجوائز</h3>
+	<ul>
+		<li>
+			<h3>Anugerah dan Pencapaian</h3>
+			<p>
+				<a href="https://iqoption.com/en/awards{$iframe_params}" target="_blank"
+					>Pelbagai penghormatan terkenal</a
+				> yang telah dimenangi oleh IQ Option menunjukkan kreativiti dan kualiti perkhidmatannya. INTLBM
+				menobatkannya sebagai Platform Dagangan Paling Inovatif (Global) pada tahun 2023; World Business
+				Outlook pula menganugerahkannya sebagai Aplikasi Dagangan Mudah Alih Terbaik (Global).
+			</p>
+			<p>
+				Selain itu, kecemerlangan dalam perkhidmatan forex membolehkan platform memperoleh
+				pencapaian anugerah Kecemerlangan dalam Platform Forex (Global) 2022. Pada tahun itu,
+				Anugerah WorldForex menamakannya sebagai Pengalaman Dagangan Terbaik 2022 dan mendapat
+				pengiktirafan sebagai Platform Dagangan Terbaik 2022. Penghormatan ini menyerlahkan dedikasi
+				IQ Option untuk menyediakan platform dagangan terbaik.
+			</p>
+		</li>
+
+		<li>
+			<h3>Pelesenan dan Peraturan</h3>
+			<p>
+				SKY LADDER LLC, firma yang diperbadankan di bawah No. Pendaftaran ILLC 004 dengan
+				Suruhanjaya Kawal Selia Perkhidmatan Kewangan, menjalankan IQ Option. Walaupun tidak
+				ditadbir oleh mana-mana entiti kewangan Malaysia, ia didaftarkan di bawah agensi kawal selia
+				yang diiktiraf di peringkat antarabangsa, sekali gus menyumbang kepada kesahihan dan
+				kepercayaan platform.
+			</p>
+			<p>
+				Komitmennya terhadap piawaian dunia menjamin persekitaran perdagangan yang selamat, telus
+				dan adil untuk pedagang. Dengan mengetahui bahawa platform berjalan dalam rangka kerja
+				terkawal dan bertanggungjawab, pengguna di Malaysia boleh menggunakannya dengan yakin.
+			</p>
+		</li>
+
+		<li>
+			<h3>Langkah Keselamatan Platform</h3>
+			<p>
+				IQ Option menggunakan amalan keselamatan standard industri untuk melindungi data dan dana
+				pengguna. Penyulitan SSL melindungi semua maklumat peribadi dan kewangan yang ditukar pada
+				platform.
+			</p>
+			<p>
+				Dana pengguna juga disimpan dalam akaun berasingan daripada dana operasi syarikat. Ini
+				menjamin bahawa dana pelanggan dilindungi sekiranya gangguan operasi berlaku. Pengesahan dua
+				faktor pilihan (2FA) juga tersedia untuk lapisan tambahan keselamatan akaun.
+			</p>
+		</li>
+
+		<li>
+			<h3>Sokongan Pelanggan</h3>
+			<ImageWrap
+				imageW={450}
+				imageH={450}
+				path="/my/image13.png"
+				fullImage={[1024, 1024]}
+				darkBgr
+			/>
+			<p>
+				Melalui banyak saluran yang mudah—termasuk sembang langsung, e-mel dan pusat bantuan khusus
+				yang boleh diakses daripada desktop dan peranti mudah alih—IQ Option menawarkan perkhidmatan
+				pelanggan yang pantas. Sokongan boleh diakses dalam banyak bahasa, termasuk bahasa Melayu,
+				memastikan pengguna Malaysia boleh berinteraksi dengan berkesan dan selesa. Kebanyakan
+				soalan dijawab dengan pantas; sembang langsung memberikan respons yang hampir segera dan
+				sokongan e-mel biasanya menjawab dalam masa 24 jam.
+			</p>
+		</li>
+	</ul>
+
+	<h2>Penjelasan Jenis Akaun IQ Option</h2>
+
+	<ImageWrap imageW={768} imageH={512} path="/my/image7.png" fullImage={[1536, 1024]} darkBgr />
+
 	<p>
-		لكل مجتهدٍ نصيب، ولم يمرّ التزام IQ Option بالابتكار والتميُّز في تقديم خدمات عالية المستوى مرور
-		الكرام دون أن يُلاحظه المتخصِّصون على مستوى القِطاع. إذ تمكَّنت من حصد العديد من الأوسمة
-		والتكريمات على مدار السنوات، بما يجعلها منصَّة حائزة على الجوائز، نذكر منها:
+		Dengan menyediakan beberapa jenis akaun, masing-masing dengan ciri dan kelebihan tersendiri, IQ
+		Option memberi perkhidmatan kepada pedagang di setiap peringkat pengalaman. Matlamat anda,
+		toleransi risiko dan kepakaran perdagangan akan menentukan akaun yang sesuai.
 	</p>
 
 	<ul>
 		<li>
-			جائزة أفضل منصَّة تداوُل لعام 2022 (مُقدَّمة من البوابة الإخبارية الإلكترونية FX Daily Info)
+			<h3>Akaun Demo</h3>
+			<ImageWrap imageW={450} imageH={450} path="/my/image4.png" fullImage={[1024, 1024]} darkBgr />
+			<p>
+				Jika anda baru berdagang atau hanya ingin mengetahui lebih lanjut tentang platform, akaun
+				demo adalah permulaan yang sangat baik. Anda boleh menguji teknik perdagangan dalam
+				persekitaran bebas risiko dengan mata wang maya $10,000. Akaun ini membolehkan anda
+				mempelajari antara muka dan fungsi platform kerana ia mencerminkan pengalaman dagangan
+				sebenar anda.
+			</p>
 		</li>
+
 		<li>
-			جائزة أفضل تطبيق تداوُل عبر الأجهزة المحمولة على مستوى العالم لعام 2023 (مُقدَّمة من مجلة
-			World Business Outlook)
+			<h3>Akaun Standard</h3>
+			<p>
+				Memerlukan deposit minimum $10 sahaja, akaun biasa sesuai untuk majoriti pelanggan. Antara
+				ciri platform lain, ia menawarkan akses lengkap kepada lebih daripada 300 aset dagangan.
+			</p>
+			<p>
+				Dengan akaun ini, anda boleh mengambil bahagian dalam perdagangan sebenar, mengurus
+				portfolio dan mengakses alatan analisis. Ia adalah pilihan fleksibel yang mengimbangi
+				halangan kemasukan rendah dengan keupayaan perdagangan yang berkuasa.
+			</p>
 		</li>
-		<li>جائزة أفضل تجربة تداوُل لعام 2022 (مُقدَّمة من منظَّمة World Forex Award )</li>
+
 		<li>
-			جائزة منصَّة التداوُل الأكثر ابتكارًا على مستوى العالم لعام 2023 (مُقدَّمة من مجلة
-			International Business Magazine)
+			<h3>Akaun VIP</h3>
+			<ImageWrap imageW={768} imageH={512} path="/my/image2.png" fullImage={[1536, 1024]} darkBgr />
+			<p>
+				Direka untuk pedagang volum tinggi, akaun VIP menawarkan manfaat yang dipertingkatkan
+				seperti pengeluaran yang lebih pantas, bahan latihan eksklusif dan peningkatan keuntungan
+				pada aset terpilih.
+			</p>
+			<p>
+				Biasanya, pengguna perlu melabur sejumlah besar wang untuk layak; tetapi, bagi pedagang yang
+				berdedikasi manfaatnya mungkin berbaloi. Anda juga akan mendapat pengurus akaun yang komited
+				untuk membimbing anda menavigasi keputusan perdagangan yang sukar.
+			</p>
 		</li>
+
 		<li>
-			جائزة التميُّز في منصَّات الفوركس على مستوى العالم لعام 2022 (مُقدَّمة من مجلة Global Business
-			Review Magazine)
-		</li>
-		<li>جائزة أفضل تطبيق تقني (مُقدَّمة من جمعية The Web Marketing Association)</li>
-		<li>
-			جائزة القرن الذهبية الدولية (ERA) للجودة والتميُّز المؤسَّسي (مُقدَّمة من مجموعة Business
-			Initiative Directions Group)
+			<h3>Akaun Islamik</h3>
+			<ImageWrap
+				imageW={450}
+				imageH={450}
+				path="/my/image17.png"
+				fullImage={[1024, 1024]}
+				darkBgr
+			/>
+			<p>
+				Bagi pedagang Muslim yang ingin mengelakkan transaksi berasaskan faedah, IQ Option
+				menyediakan jenis akaun patuh Syariah. Akaun ini membolehkan anda berdagang sambil mematuhi
+				garis panduan kewangan Islam.
+			</p>
+
+			<ul>
+				<li>
+					<h4>Apakah itu Akaun Islamik?</h4>
+					<p>
+						Direka untuk mematuhi sekatan ke atas riba (faedah), akaun Islamik menjamin tiada fi
+						swap atau semalaman ke atas pegangan semalaman.
+					</p>
+				</li>
+				<li>
+					<h4>Bagaimana Ia Berfungsi?</h4>
+					<p>
+						Tidak seperti akaun standard yang mungkin mengenakan caj atau memperoleh faedah untuk
+						memegang pesanan semalaman, akaun Islam menggunakan syarat bebas swap. Persekitaran
+						dagangan kekal sama, tetapi struktur fi diselaraskan untuk memastikan pematuhan.
+					</p>
+				</li>
+				<li>
+					<h4>Cara Membuka Akaun Islamik</h4>
+					<p>
+						Untuk mengaktifkan akaun Islamik, daftar dahulu dengan IQ Option dan sahkan identiti
+						anda. Kemudian, hubungi sokongan pelanggan dan minta pilihan akaun Islamik.
+					</p>
+					<p>
+						Mereka mungkin memerlukan pengesahan perkaitan agama anda, selepas itu tetapan akaun
+						anda akan ditukar dengan sewajarnya. Pendekatan mudah ini menjamin bahawa anda boleh
+						berdagang dengan cara yang konsisten dengan kepercayaan anda.
+					</p>
+				</li>
+			</ul>
 		</li>
 	</ul>
-
-	<p>
-		وما هذه الجوائز سوى دليل يؤكِّد مكانة IQ Option الريادية على مستوى القِطاع والتزامها بتقديم
-		تجربة تداوُل من الفئة الممتازة.
-	</p>
-
-	<h3>الوضع التنظيمي والتراخيص الممنوحة</h3>
-
-	<p>
-		تخضع IQ Option للتنظيم أصولًا من قِبل هيئة الأوراق المالية والبورصات القبرصية (CySEC) عبر الشركة
-		الأم في أوروبا IQ Option Europe Ltd محدودة المسؤولية. في حين تُقدَّم خدمات IQ Option Ltd
-		للمستخدمين خارج المنطقة الاقتصادية الأوروبية من قبل شركة IQ Option Ltd محدودة المسؤولية
-		والمسجَّلة أصولًا في دولة سانت فنسنت والغرينادين.
-	</p>
-
-	<h3>الأمان</h3>
-	<p>
-		تضمن IQ Option أعلى مستويات الأمان من خلال فصل أموال العملاء عن حسابات التشغيل الخاصَّة بالشركة،
-		وتشفير البيانات باستخدام بروتوكول SSL، ومنع حالات الاحتيال عبر عمليات التحقُّق، وإجراء عمليات
-		تدقيق أمني بانتظام، والامتثال لمعايير حماية البيانات العالمية. وممَّا لا شكَّ به أنَّ ما من
-		منصَّة تخلو تمامًا من المخاطر، إلَّا أنَّ هذه التدابير تُبرِز التزام IQ Option الراسخ بالحفاظ
-		على بيئة تداوُل آمنة.
-	</p>
 </section>
 
 <!-- <div class="img-wrap">
@@ -195,7 +215,7 @@
 	</section>
 </div> -->
 
-<style>
+<!-- <style>
 	tr td:first-child {
 		font-weight: 600;
 		background-color: var(--secondary-bgr);
@@ -215,5 +235,11 @@
 		.table-wrap {
 			overflow: scroll;
 		}
+	}
+</style> -->
+
+<style>
+	section {
+		padding-top: 60px;
 	}
 </style>
