@@ -3,106 +3,116 @@
 </script>
 
 <section>
-	<h2>الأسواق والأصول</h2>
+	<h2>Pasaran dan Instrumen Tersedia</h2>
+	<ImageWrap imageW={512} imageH={768} path="/my/image12.png" fullImage={[1024, 1536]} darkBgr />
 	<p>
-		اتخذت IQ Option من التوسُّع والتنوع هدفًا لها، إذ تُقدِّم مجموعة شاملة من الأصول المُتاحة
-		للتداوُل في شتّى الأسواق، وهي:
+		Dengan pilihan asetnya yang luas dan pelbagai, IQ Option sesuai untuk pedagang baru dan
+		berpengalaman Malaysia yang ingin mempelbagaikan portfolio mereka.
 	</p>
 
-	<h3>الفوركس</h3>
-
-	<p>
-		يُعدُّ سوق الفوركس (سوق صرف العملات الأجنبية) أكبر الأسواق المالية في العالم والأعلى من حيث
-		السيولة. وتُتيح لكَ IQ Option إمكانية الوصول إلى عقود الفروقات (CFDs) باستخدام ما يزيد عن 40 زوج
-		عملات، بما يشمل:
-	</p>
-
-	<ul>
+	<ol>
 		<li>
-			الأزواج الرئيسية (مثل زوج اليورو/دولار أمريكي «EUR/USD» وزوج الجنيه الإسترليني/دولار أمريكي
-			«GBP/USD» وزوج الدولار الأمريكي/ين ياباني «USD/JPY»)
-		</li>
-		<li>
-			الأزواج الثانوية (مثل زوج اليورو/جنيه إسترليني «EUR/GBP»، وزوج الدولار الأسترالي/دولار كندي
-			«AUD/CAD»)
-		</li>
-		<li>
-			الأزواج النادرة (مثل زوج الدولار الأمريكي/ليرة تركية «USD/TRY»، وزوج اليورو/راند جنوب أفريقي
-			«EUR/ZAR»)
-		</li>
-	</ul>
-
-	<p>
-		ويتوفَّر تداوُل الفوركس على منصَّة IQ Option مع رافعات مالية تصل حتى 1 إلى 500، ممَّا يُتيح لك
-		إمكانية إدارة صفقات تداوُل بأحجام أكبر انطلاقًا من استثمارات بمبالغ محدودة نسبيًا. ولكن تذكّر
-		دائمًا أنَّ الرافعة المالية تزيد من الخسائر المحتملة تمامًا كما تُضاعف العائدات المحتملة.
-	</p>
-
-	<ImageWrap imageW={983} imageH={555} path="/ar/img2.jpg" fullImage={[983, 555]} />
-
-	<h3>الأسهم</h3>
-	<p>
-		تُتيح IQ Option إمكانية الوصول إلى أكثر من 150 سهمًا لشركات مُدرَجَة للتداول في أبرز الأسواق
-		المالية العالمية. إذ يمكنك تداوُل أسهم شركات التكنولوجيا العملاقة مثل Apple وMicrosoft وGoogle،
-		إلى جانب شركات راسخة في قِطاعات متنوِّعة مثل Amazon وTesla وNike وMcDonald's.
-	</p>
-	<p>
-		أمَّا عن كيفية تداوُل الأسهم عبر منصَّتنا، فيتمُّ باستخدام عقود الفروقات (CFDs)، ممَّا يعني
-		أنَّك تتداوَل بناءً على حركة السعر (تُضارب على تغيُّرات الأسعار على المدى القصير) دون امتلاك
-		السهم فعليًا. إذ يُتيح تداوُل عقود الفروقات إمكانية فتح صفقات شراء (طويلة/Long) أو صفقات بيع
-		(قصيرة/Short)، ممَّا يمنحك مرونةً بغض النظر عن اتجاه السوق.
-	</p>
-	<h3>الخيارات</h3>
-
-	<ul>
-		<li>
-			<strong>الخيارات الثنائية</strong>
+			<h3>Perdagangan Forex</h3>
+			<ImageWrap
+				imageW={450}
+				imageH={450}
+				path="/my/image10.png"
+				fullImage={[1024, 1024]}
+				darkBgr
+			/>
 			<p>
-				وتُعدُّ أحد الأنماط الأساسيَّة في التداوُل، والتي تُراهن فيها على ما إذا كانت قيمة الأداة
-				المالية سترتفع أم تنخفض خلال فترة زمنية محدَّدة. وتتراوح العائدات عادةً بين 75% و95% في حال
-				توقّعت الاتجاه على نحوٍ صحيح. علمًا أنَّ عقود الخيارات الثنائية لم تَعُد متاحة للمستثمرين
-				بالتجزئة (الأفراد) ضمن المنطقة الاقتصادية الأوروبية بسبب القيود التنظيمية.
+				IQ Option menawarkan 43 pasangan Forex menggunakan Kontrak untuk Perbezaan (CFD). Dengan
+				menggunakan leveraj yang berbeza, anda boleh berdagang pasangan mata wang utama, minor dan
+				eksotik. Antara pasangan yang popular ialah AUD/CAD, GBP/JPY dan EUR/USD. Sama ada anda
+				melindung nilai risiko atau membuat spekulasi mengenai turun naik mata wang, bahagian Forex
+				mempunyai banyak peluang.
 			</p>
 		</li>
 		<li>
-			<strong>الخيارات الرقمية </strong>
+			<h3>CFD saham</h3>
+			<ImageWrap imageW={993} imageH={565} path="/my/image19.png" fullImage={[993, 565]} darkBgr />
 			<p>
-				وهي نسخة مطوَّرة من عقود الخيارات الثنائية، إذ تتميَّز بمزيدٍ من المرونة وإمكانات أعلى
-				لتحقيق العائدات (قد تصل إلى 900% في بعض الحالات). توفِّر عقود الخيارات الرقمية استراتيجيات
-				أكثر تنوّعًا دون فرض معايير مخاطرة محدَّدة مُسبقًا (إذ يُمكنك اختيار سعر التنفيذ المناسب، ما
-				يسمح بتعديل نسبة العائد والمخاطرة حسب الاستراتيجية).
+				Pedagang boleh melabur wang ke dalam beberapa syarikat yang paling berkuasa dan terbesar
+				dengan 267 CFD saham. Ini meliputi syarikat terkenal dalam industri kewangan, penjagaan
+				kesihatan dan runcit serta raksasa teknologi seperti Apple, Tesla dan Amazon. Menawarkan
+				fleksibiliti dan keperluan yang lebih sedikit untuk modal, CFD saham membolehkan anda
+				berdagang pada perubahan harga tanpa memegang saham pendasar.
 			</p>
 		</li>
-	</ul>
+		<li>
+			<h3>Perdagangan Opsyen</h3>
 
-	<ImageWrap imageW={983} imageH={555} path="/ar/img3.jpg" fullImage={[983, 555]} />
-
-	<h3>السلع</h3>
-	<p>
-		وسِّع آفاق استثمارك وتداوَل المعادن الثمينة (كالذهب والفضة) والسلع المرتبطة بقِطاع الطاقة
-		(كالنفط والغاز الطبيعي) والسلع الزراعية (كالبن والسكر والذرة)، لإضفاء المزيد من التنوُّع على
-		محفظتك الاستثمارية بما يتجاوز الاعتماد على الأدوات المالية التقليدية وحدها.
-	</p>
-
-	<h3>صناديق المؤشرات المتداولة (ETF)</h3>
-
-	<p>
-		استثمر في مجموعاتٍ متنوِّعة من الأصول القائمة على مؤشرات أو قِطاعات أو سلع محدَّدة، وذلك من خلال
-		صناديق المؤشرات المتداولة التي تُوفِّر مزيدًا من التنويع الاستثماري.
-	</p>
-
-	<h3>العملات الرقمية</h3>
-
-	<p>
-		اشترِ وبِع أبرز العملات الرقمية على مستوى العالم من قبيل البيتكوين والإيثيريوم ولايتكوين، إضافةً
-		إلى العملات الرقمية البديلة (جميع العملات الرقمية بخلاف البيتكوين)، على مدار الساعة طوال
-		الأسبوع، مع إمكانية اتِّباع استراتيجية الشراء في ضوء توقّع ارتفاع السعر (Long) أو البيع في ضوء
-		توقّع انخفاض السعر (Short) باستخدام هذه العملات.
-	</p>
-
-	<h3>المؤشرات</h3>
-	<p>استثمِر مُراهنًا على أداء أبرز مؤشرات الأسهم العالمية، مثل مؤشر ستاندرد آند بورز 500 (S&P 500) ومؤشر داو جونز الصناعي (Dow Jones) ومؤشر ناسداك المركب (NASDAQ) ومؤشر فوتسي 100 (FTSE 100) ومؤشر داكس الألماني (DAX)، وغيرها المزيد.
-	</p>
-
-	<ImageWrap imageW={983} imageH={555} path="/ar/img4.jpg" fullImage={[983, 555]} />
+			<ol>
+				<li>
+					<h4>Opsyen Binari</h4>
+					<p>
+						Opsyen binari membolehkan pedagang menjangka sama ada harga sesuatu aset akan meningkat
+						atau menurun dalam julat masa tertentu. Dengan potensi pulangan yang jelas dan risiko
+						yang ditetapkan, ia adalah pilihan yang menarik untuk individu yang mencari pendekatan
+						perdagangan yang mudah.
+					</p>
+				</li>
+				<li>
+					<h4>Opsyen Digital</h4>
+					<p>
+						Opsyen digital menggabungkan ciri-ciri opsyen binari dan perdagangan tradisional.
+						Pedagang bukan sahaja boleh meramalkan arah tetapi juga memilih tahap harga sasaran,
+						sekaligus menawarkan persediaan risiko-ganjaran yang lebih fleksibel.
+					</p>
+				</li>
+				<li>
+					<h4>Opsyen Blitz</h4>
+					<p>
+						Opsyen Blitz (BAHARU огонек сюда добавить): Ini adalah cara terpantas untuk memperoleh
+						pendapatan, dengan masa tamat tempoh sesingkat 30 saat. Ramalan yang tepat membolehkan
+						pedagang mencapai keuntungan setinggi 95%. Opsyen Blitz sama seperti opsyen biasa: anda
+						meramalkan sama ada harga aset akan naik atau turun.
+					</p>
+				</li>
+			</ol>
+		</li>
+		<li>
+			<h3>Komoditi</h3>
+			<ImageWrap imageW={974} imageH={571} path="/my/image15.png" fullImage={[974, 571]} darkBgr />
+			<p>
+				Dengan menggunakan CFD, berdagang 10 komoditi berbeza termasuk emas, perak, minyak dan gas
+				asli. Perdagangan komoditi ialah cara terbaik untuk mempelbagaikan portfolio anda dan
+				mengawal inflasi atau bencana geopolitik. Sistem ini juga membolehkan anda membuat pesanan
+				belian dan pesanan jualan.
+			</p>
+		</li>
+		<li>
+			<h3>ETF</h3>
+			<ImageWrap imageW={993} imageH={578} path="/my/image3.png" fullImage={[993, 578]} darkBgr />
+			<p>
+				Dengan 27 ETF, IQ Option membolehkan anda mengakses bakul aset yang pelbagai. ETF memberikan
+				pendedahan pasaran yang lebih umum dengan menjejaki banyak sektor, komoditi atau indeks. Ini
+				menjadikan ETF pilihan popular untuk pelabur yang mencari risiko seimbang merentas banyak
+				jenis aset.
+			</p>
+		</li>
+		<li>
+			<h3>Mata wang kripto</h3>
+			<ImageWrap imageW={997} imageH={558} path="/my/image9.png" fullImage={[997, 558]} darkBgr />
+			<p>
+				Pedagang boleh mengakses 73 mata wang kripto CFD, termasuk mata wang terkemuka seperti
+				Bitcoin, Ethereum, Litecoin dan Ripple, serta syiling alternatif lain. Perdagangan kripto
+				tersedia 24/7, menawarkan peluang sepanjang masa.
+			</p>
+			<p>
+				Platform ini juga membenarkan dagangan margin pada mata wang kripto, membolehkan potensi
+				pulangan yang lebih tinggi, walaupun dengan peningkatan risiko.
+			</p>
+		</li>
+		<li>
+			<h3>Indeks</h3>
+			<ImageWrap imageW={973} imageH={574} path="/my/image8.png" fullImage={[973, 574]} darkBgr />
+			<p>
+				Bagi individu yang suka berdagang trend ekonomi yang lebih umum daripada menumpukan pada
+				firma tertentu, indeks adalah pilihan yang terbaik. Dengan 16 indeks utama yang tersedia
+				sebagai CFD, anda boleh berdagang pada prestasi keseluruhan pasaran saham seperti S&P 500,
+				NASDAQ, FTSE 100 dan Nikkei 225.
+			</p>
+		</li>
+	</ol>
 </section>
