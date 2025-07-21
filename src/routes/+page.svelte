@@ -3,10 +3,9 @@
 	import meta__img from '$lib/images/meta__img.jpg';
 	import AllBlocks from '../components/AllBlocks.svelte';
 
-	const title =
-		'IQ Option Malaysia — Gambaran Keseluruhan Platform, Ciri serta Kebaikan & Keburukan';
+	const title = 'IQ Option - Apa itu, Bagaimana Daftar, Log Masuk, Dagangan di Malaysia';
 	const desc =
-		'IQ Option mungkin sudah berada dalam radar anda jika anda tinggal di Malaysia dan mahukan platform dagangan yang kaya dengan ciri serta mudah didapati.';
+		'IQ Option: Ketahui apa itu, cara daftar dan log masuk di Malaysia. Mudah untuk pemula dan pedagang berpengalaman.';
 </script>
 
 <svelte:head>
@@ -21,6 +20,7 @@
 	<meta name="twitter:title" content={title} />
 	<meta name="twitter:description" content={desc} />
 	<meta name="twitter:image" content={meta__img} />
+
 	<link
 		rel="preload"
 		as="image"
